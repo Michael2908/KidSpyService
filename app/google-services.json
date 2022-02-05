@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "727590512304",
+    "project_id": "kidspy-4540c",
+    "storage_bucket": "kidspy-4540c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727590512304:android:f3210d43635e2a72863d75",
+        "android_client_info": {
+          "package_name": "com.classy.kidspyservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727590512304-ltq143vj0e2uvfh9pglckeqp7om0qvre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYjD6UixNg0Mf-xwPCPXJUdkF2cNrVFls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727590512304-ltq143vj0e2uvfh9pglckeqp7om0qvre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
